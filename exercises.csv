@@ -1,91 +1,91 @@
 id,diet,pulse,time,kind
-1,low fat,85,1 min,rest
-1,low fat,85,15 min,rest
-1,low fat,88,30 min,rest
-2,low fat,90,1 min,rest
-2,low fat,92,15 min,rest
-2,low fat,93,30 min,rest
-3,low fat,97,1 min,rest
-3,low fat,97,15 min,rest
-3,low fat,94,30 min,rest
-4,low fat,80,1 min,rest
-4,low fat,82,15 min,rest
-4,low fat,83,30 min,rest
-5,low fat,91,1 min,rest
-5,low fat,92,15 min,rest
-5,low fat,91,30 min,rest
-6,no fat,83,1 min,rest
-6,no fat,83,15 min,rest
-6,no fat,84,30 min,rest
-7,no fat,87,1 min,rest
-7,no fat,88,15 min,rest
-7,no fat,90,30 min,rest
-8,no fat,92,1 min,rest
-8,no fat,94,15 min,rest
-8,no fat,95,30 min,rest
-9,no fat,97,1 min,rest
-9,no fat,99,15 min,rest
-9,no fat,96,30 min,rest
-10,no fat,100,1 min,rest
-10,no fat,97,15 min,rest
-10,no fat,100,30 min,rest
-11,low fat,86,1 min,walking
-11,low fat,86,15 min,walking
-11,low fat,84,30 min,walking
-12,low fat,93,1 min,walking
-12,low fat,103,15 min,walking
-12,low fat,104,30 min,walking
-13,low fat,90,1 min,walking
-13,low fat,92,15 min,walking
-13,low fat,93,30 min,walking
-14,low fat,95,1 min,walking
-14,low fat,96,15 min,walking
-14,low fat,100,30 min,walking
-15,low fat,89,1 min,walking
-15,low fat,96,15 min,walking
-15,low fat,95,30 min,walking
-16,no fat,84,1 min,walking
-16,no fat,86,15 min,walking
-16,no fat,89,30 min,walking
-17,no fat,103,1 min,walking
-17,no fat,109,15 min,walking
-17,no fat,90,30 min,walking
-18,no fat,92,1 min,walking
-18,no fat,96,15 min,walking
-18,no fat,101,30 min,walking
-19,no fat,97,1 min,walking
-19,no fat,98,15 min,walking
-19,no fat,100,30 min,walking
-20,no fat,102,1 min,walking
-20,no fat,104,15 min,walking
-20,no fat,103,30 min,walking
-21,low fat,93,1 min,running
-21,low fat,98,15 min,running
-21,low fat,110,30 min,running
-22,low fat,98,1 min,running
-22,low fat,104,15 min,running
-22,low fat,112,30 min,running
-23,low fat,98,1 min,running
-23,low fat,105,15 min,running
-23,low fat,99,30 min,running
-24,low fat,87,1 min,running
-24,low fat,132,15 min,running
-24,low fat,120,30 min,running
-25,low fat,94,1 min,running
-25,low fat,110,15 min,running
-25,low fat,116,30 min,running
-26,no fat,95,1 min,running
-26,no fat,126,15 min,running
-26,no fat,143,30 min,running
-27,no fat,100,1 min,running
-27,no fat,126,15 min,running
-27,no fat,140,30 min,running
-28,no fat,103,1 min,running
-28,no fat,124,15 min,running
-28,no fat,140,30 min,running
-29,no fat,94,1 min,running
-29,no fat,135,15 min,running
-29,no fat,130,30 min,running
-30,no fat,99,1 min,running
-30,no fat,111,15 min,running
-30,no fat,150,30 min,running
+1,low fat,85,1,0
+1,low fat,85,15,0
+1,low fat,88,30,0
+2,low fat,90,1,0
+2,low fat,92,15,0
+2,low fat,93,30,0
+3,low fat,97,1,0
+3,low fat,97,15,0
+3,low fat,94,30,0
+4,low fat,80,1,0
+4,low fat,82,15,0
+4,low fat,83,30,0
+5,low fat,91,1,0
+5,low fat,92,15,0
+5,low fat,91,30,0
+6,no fat,83,1,0
+6,no fat,83,15,0
+6,no fat,84,30,0
+7,no fat,87,1,0
+7,no fat,88,15,0
+7,no fat,90,30,0
+8,no fat,92,1,0
+8,no fat,94,15,0
+8,no fat,95,30,0
+9,no fat,97,1,0
+9,no fat,99,15,0
+9,no fat,96,30,0
+10,no fat,100,1,0
+10,no fat,97,15,0
+10,no fat,100,30,0
+11,low fat,86,1,1
+11,low fat,86,15,1
+11,low fat,84,30,1
+12,low fat,93,1,1
+12,low fat,103,15,1
+12,low fat,104,30,1
+13,low fat,90,1,1
+13,low fat,92,15,1
+13,low fat,93,30,1
+14,low fat,95,1,1
+14,low fat,96,15,1
+14,low fat,100,30,1
+15,low fat,89,1,1
+15,low fat,96,15,1
+15,low fat,95,30,1
+16,no fat,84,1,1
+16,no fat,86,15,1
+16,no fat,89,30,1
+17,no fat,103,1,1
+17,no fat,109,15,1
+17,no fat,90,30,1
+18,no fat,92,1,1
+18,no fat,96,15,1
+18,no fat,101,30,1
+19,no fat,97,1,1
+19,no fat,98,15,1
+19,no fat,100,30,1
+20,no fat,102,1,1
+20,no fat,104,15,1
+20,no fat,103,30,1
+21,low fat,93,1,2
+21,low fat,98,15,2
+21,low fat,110,30,2
+22,low fat,98,1,2
+22,low fat,104,15,2
+22,low fat,112,30,2
+23,low fat,98,1,2
+23,low fat,105,15,2
+23,low fat,99,30,2
+24,low fat,87,1,2
+24,low fat,132,15,2
+24,low fat,120,30,2
+25,low fat,94,1,2
+25,low fat,110,15,2
+25,low fat,116,30,2
+26,no fat,95,1,2
+26,no fat,126,15,2
+26,no fat,143,30,2
+27,no fat,100,1,2
+27,no fat,126,15,2
+27,no fat,140,30,2
+28,no fat,103,1,2
+28,no fat,124,15,2
+28,no fat,140,30,2
+29,no fat,94,1,2
+29,no fat,135,15,2
+29,no fat,130,30,2
+30,no fat,99,1,2
+30,no fat,111,15,2
+30,no fat,150,30,2
